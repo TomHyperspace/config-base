@@ -1,0 +1,20 @@
+# Thumbs Files
+.DS_Store
+Thumbs.db
+
+# Dependencies NPM / Yarn
+/node_modules
+
+# Javascript Compiled.
+/public
+/build
+/dist
+
+# Logs
+/*.log
+
+# External
+/vendor
+
+# Config
+/brunch-config.js

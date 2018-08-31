@@ -1,0 +1,14 @@
+# Thumbs Files
+.DS_Store
+Thumbs.db
+
+# Dependencies NPM / Yarn
+/node_modules
+
+# Javascript Compiled ~ À adapter selon l'utilisation de cette base
+/public
+/build
+/dist
+
+# Logs
+/*.log
