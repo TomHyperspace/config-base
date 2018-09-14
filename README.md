@@ -1,1 +1,1 @@
-# config-base# Artshop
+# config-base
