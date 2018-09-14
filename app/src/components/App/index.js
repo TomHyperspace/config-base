@@ -6,11 +6,11 @@ import React from 'react';
 /*
  * Local Import
  */
-
+import { WrapDiv } from './style';
 /*
  * Component
  */
-const App = () => <div>Hello World !</div>;
+const App = () => <WrapDiv>Hello World !</WrapDiv>;
 
 /*
  * Export
